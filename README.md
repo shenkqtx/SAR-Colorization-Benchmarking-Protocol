@@ -1,6 +1,3 @@
-# A-Benchmarking-Protocol-for-SAR-Colorization-From-Regression-to-Deep-Learning-Approaches
-Codes for "A Benchmarking Protocol for SAR Colorization: From Regression to Deep Learning Approaches"
-
 Copyright (c) 2023.
 All rights reserved. This work should only be used for nonprofit purposes.
 

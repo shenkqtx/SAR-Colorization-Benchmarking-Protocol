@@ -24,6 +24,7 @@ Packages for a benchmarking protocol for SAR colorization which contains a proto
 
 ### Models
 * saved models of the proposed approaches for reproducibility.
+* link: https://pan.baidu.com/s/1yw9BtVMB4_WQcZwPMmzhRQ?pwd=cwmd, password: cwmd
 
 ### Metrics
 * Matlab codes for Q2n.

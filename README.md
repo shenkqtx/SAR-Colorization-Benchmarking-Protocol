@@ -41,6 +41,7 @@ Packages for a benchmarking protocol for SAR colorization which contains a proto
 
 ## Citation
 If you find this code helpful, please kindly cite our paper.
+```bibtex
 @article{SHEN2024698,
 title = {A benchmarking protocol for SAR colorization: From regression to deep learning approaches},
 journal = {Neural Networks},

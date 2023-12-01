@@ -24,7 +24,7 @@ Packages for a benchmarking protocol for SAR colorization which contains a proto
 
 ### Models
 * saved models of the proposed approaches for reproducibility.
-* link: https://pan.baidu.com/s/1yw9BtVMB4_WQcZwPMmzhRQ?pwd=cwmd, password: cwmd
+* link: https://pan.baidu.com/s/1yw9BtVMB4_WQcZwPMmzhRQ?pwd=cwmd, password: cwmd. You can also use the link: https://terabox.com/s/1OLJyYWKOtO66eT7cw42Njw
 
 ### Metrics
 * Matlab codes for Q2n.
@@ -36,11 +36,11 @@ Packages for a benchmarking protocol for SAR colorization which contains a proto
 
 ### SEN12MS_CR_SARColorData
 * there are 4 train samples and 4 test samples.
-* the whole train dataset can be downloaded by the following Baidu Netdisk link: https://pan.baidu.com/s/1xHSDNXoQzo5xewMsjQCBrA?pwd=2h7y, password：2h7y
+* the whole train dataset can be downloaded by the following Baidu Netdisk link: https://pan.baidu.com/s/1xHSDNXoQzo5xewMsjQCBrA?pwd=2h7y, password：2h7y. You can also use the link: https://terabox.com/s/1J2mTvAROV9SSzilUkwsgeg
 * it is noted that the sar_train and opt_train are divided into several parts because of some restrictions, so the users can merge them after decompression. Additionally, sar_train_20, opt_train_20, and gt_train_20 are the trainset for LR4ColSAR and NL4ColSAR.
 
 ## Citation
-If you find this code helpful, please kindly cite our paper.
+If you find this code helpful, please kindly cite our paper.  
 @article{SHEN2024698,  
 title = {A benchmarking protocol for SAR colorization: From regression to deep learning approaches},  
 journal = {Neural Networks},  
